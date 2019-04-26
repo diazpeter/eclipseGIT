@@ -14,6 +14,7 @@ public class Cervecera {
 	
 	
 	// FALTAN ATRIBUTOS, COMPLETAR
+	// ALGUNOS COMENTARIOS
 
 	public Cervecera() {
 		// completar
